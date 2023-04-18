@@ -1,0 +1,19 @@
+
+.expenses {
+    padding: 0.05rem 0.8rem;
+    background-color: black;
+    margin: 2rem auto;
+    width: 50rem;
+    max-width: 95%;
+}
+
+.expenses p {
+    margin-inline: 2%;
+    padding: 0.4rem;
+    background-color: rgba(240, 137, 137, 0.822);
+    border-radius: 5px;
+    border: 1px solid red;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+}
