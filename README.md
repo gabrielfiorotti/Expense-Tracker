@@ -20,4 +20,4 @@
 
 ## 🎥 Preview
 
-* You can check the result at: 
+* You can check the result at: https://expense-tracker-deploy.vercel.app/
